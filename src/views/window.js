@@ -6,6 +6,9 @@
     return {
       show: function() {
         return $container.modal('show');
+      },
+      hide: function() {
+        return $container.modal('hide');
       }
     };
   });
