@@ -9,7 +9,7 @@
         "petrgrishin/yii-view": "~1.0",
         "petrgrishin/yii-html-tag": "~1.0",
         "petrgrishin/yii-loader-action": "~1.0",
-        "petrgrishin/yii-bootstrap": "~1.0r"
+        "petrgrishin/yii-bootstrap": "~1.0"
     },
     "require-dev": {
         "league/phpunit-coverage-listener": "~1.0"
